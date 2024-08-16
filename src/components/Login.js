@@ -7,7 +7,7 @@ function Login(){
                 <div className="w-1/2">
                     <div className="border-2 h-screen">
                         <form className="px-24 py-12">
-                            <img className="h-10 w-10 " src="https://ostraining.com/blog/coding/css-background-image/" alt="background"/>
+                            <img className="h-10 w-10 " src="https://imgs.search.brave.com/5ph5KkLypMH8CU3_Z_KWUJ53xf2d04c-bVHrco3Pgpw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/LnBob3Rvc3RvY2tl/ZGl0b3IuY29tL2Mv/MTUxMi9jdXAtZ3Jl/ZW4tdGVhcG90LXBv/dXJpbmctcmVkLWxp/cXVpZC10by13aGl0/ZS10ZWFjdXAtY2xv/c2V1cC1waG90b2dy/YXBoeS1iZXZlcmFn/ZS1iZXZlcmFnZS1p/bWFnZS5qcGc" alt="background"/>
                             <p className="text-2xl pt-4 font-semibold">Welcome Back!</p>
                             <p className="text-gray-500 pt-1 text-sm">Enter to get unlimited access to data & information.</p>
                             <div className="flex flex-col pt-7 ">
@@ -37,7 +37,7 @@ function Login(){
                     </div>
                 </div>
                 <div className="w-1/2">
-                    <img className="w-full max-h-screen" src="https://ostraining.com/blog/coding/css-background-image/" alt="background" />
+                    <img className="w-full max-h-screen" src="https://imgs.search.brave.com/5ph5KkLypMH8CU3_Z_KWUJ53xf2d04c-bVHrco3Pgpw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/LnBob3Rvc3RvY2tl/ZGl0b3IuY29tL2Mv/MTUxMi9jdXAtZ3Jl/ZW4tdGVhcG90LXBv/dXJpbmctcmVkLWxp/cXVpZC10by13aGl0/ZS10ZWFjdXAtY2xv/c2V1cC1waG90b2dy/YXBoeS1iZXZlcmFn/ZS1iZXZlcmFnZS1p/bWFnZS5qcGc" alt="background" />
                 </div>
             </div>
 
